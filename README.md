@@ -40,6 +40,7 @@ The dashboard was built using the following tools and technologies:
 
 <img width="889" height="502" alt="Overview" src="https://github.com/user-attachments/assets/5d016d91-4110-4f85-acce-09ae2f90add0" />
 
+
 <img width="899" height="505" alt="Market Insights" src="https://github.com/user-attachments/assets/82e2e4a0-5034-456b-8e46-5be5bad2327d" />
 
 # Coclusion 
